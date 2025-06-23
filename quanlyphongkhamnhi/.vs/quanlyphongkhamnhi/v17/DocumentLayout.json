@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|d:\\qq\\\u0111\u1EA1i h\u1ECDc\\c\u00F4ng ngh\u1EC7 net\\nhom12_phongkhamnhi\\quanlyphongkhamnhi\\adminform\\qluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|solutionrelative:adminform\\qluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|d:\\qq\\\u0111\u1EA1i h\u1ECDc\\c\u00F4ng ngh\u1EC7 net\\nhom12_phongkhamnhi\\quanlyphongkhamnhi\\adminform\\qlthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|solutionrelative:adminform\\qlthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|d:\\qq\\\u0111\u1EA1i h\u1ECDc\\c\u00F4ng ngh\u1EC7 net\\nhom12_phongkhamnhi\\quanlyphongkhamnhi\\adminform\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|solutionrelative:adminform\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|d:\\qq\\\u0111\u1EA1i h\u1ECDc\\c\u00F4ng ngh\u1EC7 net\\nhom12_phongkhamnhi\\quanlyphongkhamnhi\\bacsiform\\hosobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B4892-8D46-4FA6-8728-2F6E8C6BC7DE}|quanlyphongkhamnhi.csproj|solutionrelative:bacsiform\\hosobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLUser.cs",
+              "DocumentMoniker": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\AdminForm\\QLUser.cs",
+              "RelativeDocumentMoniker": "AdminForm\\QLUser.cs",
+              "ToolTip": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\AdminForm\\QLUser.cs",
+              "RelativeToolTip": "AdminForm\\QLUser.cs",
+              "ViewState": "AQIAADEDAAAAAAAAAAA6wD0DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:22:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLThuoc.cs",
+              "DocumentMoniker": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\AdminForm\\QLThuoc.cs",
+              "RelativeDocumentMoniker": "AdminForm\\QLThuoc.cs",
+              "ToolTip": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\AdminForm\\QLThuoc.cs",
+              "RelativeToolTip": "AdminForm\\QLThuoc.cs",
+              "ViewState": "AQIAAOIBAAAAAAAAAABCwOYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:20:29.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoSoBS.cs",
+              "DocumentMoniker": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\BacSiForm\\HoSoBS.cs",
+              "RelativeDocumentMoniker": "BacSiForm\\HoSoBS.cs",
+              "ToolTip": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\BacSiForm\\HoSoBS.cs",
+              "RelativeToolTip": "BacSiForm\\HoSoBS.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA5wHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:04:49.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLNhanVien.cs",
+              "DocumentMoniker": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\AdminForm\\QLNhanVien.cs",
+              "RelativeDocumentMoniker": "AdminForm\\QLNhanVien.cs",
+              "ToolTip": "D:\\QQ\\\u0110\u1EA0I H\u1ECCC\\C\u00F4ng ngh\u1EC7 NET\\Nhom12_PhongKhamNhi\\quanlyphongkhamnhi\\AdminForm\\QLNhanVien.cs",
+              "RelativeToolTip": "AdminForm\\QLNhanVien.cs",
+              "ViewState": "AQIAAJkBAAAAAAAAAIA8wI8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:24:23.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
